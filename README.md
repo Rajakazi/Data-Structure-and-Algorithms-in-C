@@ -1,4 +1,4 @@
-# Data-Structure-and-Algorithms-in-C
-All Data structure and algorithms programming part here in c 
+# Data-Structure-and-Algorithms Question TU -in-C (BCA)
+Data structure and algorithms Question Here
 <br>
 learning now 
